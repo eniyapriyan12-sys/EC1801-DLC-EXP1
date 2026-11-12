@@ -106,4 +106,4 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 Result
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
-
+![image alt](https://github.com/eniyapriyan12-sys/EC1801-DLC-EXP1/blob/c8fc65d189d6d3d478e1f30daf8b2b6d991f96e5/Screenshot%202026-11-02%20111706.png)

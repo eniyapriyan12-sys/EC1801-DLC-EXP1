@@ -66,7 +66,7 @@ endmodule
 
 
     
-## Truth Table
+## Truth
  
 <img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
 

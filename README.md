@@ -29,7 +29,6 @@ assign F = (~A) | B ;    // F = A' + B
 endmodule
 
 
-
 ## TestBench Program
 module tb;
     reg A, B;
